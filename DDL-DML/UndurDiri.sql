@@ -1,5 +1,5 @@
 CREATE TABLE UndurDiri (
-    id_undurdiri varchar(5) NOT NULL,
+    id_undurdiri varchar(6) NOT NULL,
     nim varchar(10),
     status varchar(10),
     alasan varchar(50),

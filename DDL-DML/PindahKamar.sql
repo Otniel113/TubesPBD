@@ -1,5 +1,5 @@
 CREATE TABLE PindahKamar (
-    id_pindahkamar varchar(5) NOT NULL,
+    id_pindahkamar varchar(6) NOT NULL,
     nim varchar(10),
     status varchar(10),
     alasan varchar(50),
